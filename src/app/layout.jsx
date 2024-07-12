@@ -7,8 +7,8 @@ import '@/styles/tailwind.css'
 
 export const metadata = {
   title: {
-    template: '%s - Nivaro',
-    default: 'Nivaro',
+    template: '%s - Advanced Prep',
+    default: 'Advanced Prep',
   },
 }
 
