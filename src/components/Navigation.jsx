@@ -199,9 +199,12 @@ export const navigation = [
       { title: 'Course Overview', href: '/course-overview' },
 
       { title: 'Unit 1: Understanding the Admissions Process', href: '/unit-1' },
-      { title: 'Unit 2: Developing Core Skills', href: '/unit-2' },
-      { title: 'Unit 3: Essay Practice', href: '/unit-3' },
-      { title: 'Unit 4: Final Preparation', href: '/unit-4' },
+      { title: 'Unit 2: Questioning and Processing', href: '/unit-2' },
+      { title: 'Unit 3: Information Gathering and Analysis', href: '/unit-3' },
+      { title: 'Unit 4: Fluency and Originality of Ideas', href: '/unit-4' },
+      { title: 'Unit 5: Presentation and Reasoning', href: '/unit-5' },
+      { title: 'Unit 6: Point of View and Perspective', href: '/unit-6' },
+      { title: 'Final Preparation', href: '/final-prep' },
     ],
   },
   {
